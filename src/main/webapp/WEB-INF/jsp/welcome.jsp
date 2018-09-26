@@ -8,5 +8,8 @@
 </head>
 <body>
 <h1>OLA MUNDO JSP!</h1>
+
+<button><a href=/outrapagina>Clique aqui</a></button> 
+
 </body>
 </html>

@@ -12,5 +12,10 @@ public class MWHController {
 	public ModelAndView firstPage() {
 		return new ModelAndView("welcome");
 	}
+	
+	@RequestMapping("/outrapagina")
+	public String outraPagina() {
+		return "outraPagina";
+	}
 
 }
